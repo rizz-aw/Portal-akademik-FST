@@ -1,0 +1,401 @@
+{
+ "mobile-360": {
+  "imgs": [
+   [
+    "img/logo-unpatti.png",
+    true
+   ],
+   [
+    "img/gedung-unpatti.jpg",
+    true
+   ]
+  ],
+  "overflow": {
+   "scrollW": 360,
+   "clientW": 360,
+   "overflowEls": []
+  },
+  "requests": [
+   [
+    200,
+    "index.html",
+    "text/html"
+   ],
+   [
+    200,
+    "styles.css",
+    "text/css"
+   ],
+   [
+    200,
+    "logo-unpatti.png",
+    "image/png"
+   ],
+   [
+    200,
+    "gedung-unpatti.jpg",
+    "image/jpeg"
+   ]
+  ],
+  "failed": [],
+  "console": []
+ },
+ "tablet-768": {
+  "imgs": [
+   [
+    "img/logo-unpatti.png",
+    true
+   ],
+   [
+    "img/gedung-unpatti.jpg",
+    true
+   ]
+  ],
+  "overflow": {
+   "scrollW": 768,
+   "clientW": 768,
+   "overflowEls": []
+  },
+  "requests": [
+   [
+    200,
+    "index.html",
+    "text/html"
+   ],
+   [
+    200,
+    "styles.css",
+    "text/css"
+   ],
+   [
+    200,
+    "logo-unpatti.png",
+    "image/png"
+   ],
+   [
+    200,
+    "gedung-unpatti.jpg",
+    "image/jpeg"
+   ]
+  ],
+  "failed": [],
+  "console": []
+ },
+ "desktop-1280": {
+  "imgs": [
+   [
+    "img/logo-unpatti.png",
+    true
+   ],
+   [
+    "img/gedung-unpatti.jpg",
+    true
+   ]
+  ],
+  "overflow": {
+   "scrollW": 1280,
+   "clientW": 1280,
+   "overflowEls": []
+  },
+  "requests": [
+   [
+    200,
+    "index.html",
+    "text/html"
+   ],
+   [
+    200,
+    "styles.css",
+    "text/css"
+   ],
+   [
+    200,
+    "logo-unpatti.png",
+    "image/png"
+   ],
+   [
+    200,
+    "gedung-unpatti.jpg",
+    "image/jpeg"
+   ]
+  ],
+  "failed": [],
+  "console": []
+ },
+ "tab_order": [
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Lewati ke konten utama",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Portal Layanan Akademik\nFakult",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Beranda",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Layanan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Alur",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Ajukan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Ajukan permohonan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Lihat layanan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Ajukan Surat Aktif Kuliah\n→",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Ajukan Transkrip Sementara\n→",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Ajukan Cuti Akademik\n→",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Ajukan Legalisir\n→",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "input",
+   "id": "nama",
+   "txt": "nama",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "input",
+   "id": "nim",
+   "txt": "nim",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "input",
+   "id": "email",
+   "txt": "email",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "select",
+   "id": "prodi",
+   "txt": "Pilih program studi\nMatematika",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "input",
+   "id": "j-aktif",
+   "txt": "layanan",
+   "outline": "none 3px"
+  },
+  {
+   "t": "textarea",
+   "id": "keperluan",
+   "txt": "keperluan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "input",
+   "id": "setuju",
+   "txt": "setuju",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "button",
+   "id": "",
+   "txt": "Kirim permohonan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Katalog layanan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Formulir permohonan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Kembali ke atas",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "body",
+   "id": "atas",
+   "txt": "Lewati ke konten utama\nPortal",
+   "outline": "none 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Lewati ke konten utama",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Portal Layanan Akademik\nFakult",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Beranda",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Layanan",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Alur",
+   "outline": "solid 3px"
+  },
+  {
+   "t": "a",
+   "id": "",
+   "txt": "Ajukan",
+   "outline": "solid 3px"
+  }
+ ],
+ "validasi_salah": {
+  "nama": false,
+  "email": true,
+  "nim": true,
+  "form": false
+ },
+ "validasi_benar": true,
+ "after_submit_url": "?nama=Maria+Latuconsina&nim=202050123&email=maria%40gmail.com&prodi=Informatika&layanan=surat-aktif&keperluan=Untuk+melengkapi+berkas+pengajuan+beasiswa+semester+ganjil.&setuju=on#terkirim",
+ "a11y": {
+  "lang": "id",
+  "title": "Portal Layanan Akademik – FST Universitas Pattimura",
+  "imgs": [
+   {
+    "src": "img/logo-unpatti.png",
+    "alt": "Logo Universitas Pattimura"
+   },
+   {
+    "src": "img/gedung-unpatti.jpg",
+    "alt": "Gedung fakultas Universitas Pattimura tampak depan: bangunan putih empat lantai dengan panel abu-abu berornamen, kaca biru di tengah, dan papan nama merah di bagian atas, di bawah langit biru cerah."
+   }
+  ],
+  "heads": [
+   "H1: Layanan akademik cukup satu formulir.",
+   "H2: Pilih layanan",
+   "H3: Surat Aktif Kuliah",
+   "H3: Transkrip Sementara",
+   "H3: Cuti Akademik",
+   "H3: Permohonan Legalisir",
+   "H2: Dari formulir sampai berkas di tangan",
+   "H3: Pilih & isi",
+   "H3: Verifikasi",
+   "H3: Diproses",
+   "H3: Ambil berkas",
+   "H2: Ajukan permohonan",
+   "H3: Sebelum mengirim"
+  ],
+  "lm": [
+   "header",
+   "nav",
+   "main",
+   "section",
+   "section",
+   "header",
+   "section",
+   "header",
+   "section",
+   "footer",
+   "nav"
+  ],
+  "ctrls": [
+   {
+    "id": "nama",
+    "labels": 1
+   },
+   {
+    "id": "nim",
+    "labels": 1
+   },
+   {
+    "id": "email",
+    "labels": 1
+   },
+   {
+    "id": "prodi",
+    "labels": 1
+   },
+   {
+    "id": "j-aktif",
+    "labels": 1
+   },
+   {
+    "id": "j-transkrip",
+    "labels": 1
+   },
+   {
+    "id": "j-cuti",
+    "labels": 1
+   },
+   {
+    "id": "j-legalisir",
+    "labels": 1
+   },
+   {
+    "id": "keperluan",
+    "labels": 1
+   },
+   {
+    "id": "setuju",
+    "labels": 1
+   }
+  ],
+  "dupIds": []
+ },
+ "aria_snapshot": "- link \"Lewati ke konten utama\":\n  - /url: \"#konten\"\n- banner:\n  - link \"Logo Universitas Pattimura Portal Layanan Akademik Fakultas Sains dan Teknologi · Unpatti\":\n    - /url: \"#beranda\"\n    - img \"Logo Universitas Pattimura\"\n    - text: Portal Layanan Akademik Fakultas Sains dan Teknologi · Unpatti\n  - navigation \"Navigasi utama\":\n    - list:\n      - listitem:\n        - link \"Beranda\":\n          - /url: \"#beranda\"\n      - listitem:\n        - link \"Layanan\":\n          - /url: \"#layanan\"\n      - listitem:\n        - link \"Alur\":\n          - /url: \"#alur\"\n      - listitem:\n        - link \"Ajukan\":\n          - /url: \"#permohonan\"\n- main:\n  - region \"Layanan akademik cukup satu formulir.\":\n    - figure \"Gedung fakultas · Kampus Unpatti, Ambon\":\n      - 'img \"Gedung fakultas Universitas Pattimura tampak depan: bangunan putih empat lantai dengan panel abu-abu berornamen, kaca biru di tengah, dan papan nama merah di bagian atas, di bawah langit biru cerah.\"'\n      - text: Gedung fakultas · Kampus Unpatti, Ambon\n    - paragraph: Fakultas Sains dan Teknologi\n    - heading \"Layanan akademik cukup satu formulir.\" [level=1]\n    - paragraph: Surat aktif kuliah, transkrip sementara, cuti akademik, dan legalisir. Ajukan dari ponsel atau laptop, lalu ambil berkasnya saat sudah siap.\n    - paragraph:\n      - link \"Ajukan permohonan\":\n        - /url: \"#permohonan\"\n      - link \"Lihat layanan\":\n        - /url: \"#layanan\"\n    - list \"Ringkasan layanan\":\n      - listitem:\n        - strong: \"4\"\n        - text: jenis layanan\n      - listitem:\n        - strong: 1–3\n        - text: hari kerja\n      - listitem:\n        - strong: 24/7\n        - text: pengajuan online\n  - region \"Pilih layanan\":\n    - paragraph: Katalog\n    - heading \"Pilih layanan\" [level=2]\n    - paragraph: Cek estimasi waktu dan persyaratan, lalu lanjut ke formulir.\n    - list:\n      - listitem:\n        - article \"Surat Aktif Kuliah\":\n          - heading \"Surat Aktif Kuliah\" [level=3]\n          - paragraph: Bukti resmi bahwa Anda terdaftar aktif pada semester berjalan, untuk beasiswa atau administrasi lain.\n          - list \"Detail layanan\":\n            - listitem: 1 hari kerja\n            - listitem: \"Syarat: KRS berjalan\"\n          - link \"Ajukan Surat Aktif Kuliah\":\n            - /url: \"#permohonan\"\n      - listitem:\n        - article \"Transkrip Sementara\":\n          - heading \"Transkrip Sementara\" [level=3]\n          - paragraph: Rekap nilai dan IPK sementara hingga semester terakhir, untuk magang, lomba, atau lamaran kerja.\n          - list \"Detail layanan\":\n            - listitem: 2 hari kerja\n            - listitem: \"Syarat: nilai final\"\n          - link \"Ajukan Transkrip Sementara\":\n            - /url: \"#permohonan\"\n      - listitem:\n        - article \"Cuti Akademik\":\n          - heading \"Cuti Akademik\" [level=3]\n          - paragraph: Pengajuan berhenti sementara dari perkuliahan pada satu semester dengan alasan yang jelas.\n          - list \"Detail layanan\":\n            - listitem: 3 hari kerja\n            - listitem: \"Syarat: persetujuan dosen PA\"\n          - link \"Ajukan Cuti Akademik\":\n            - /url: \"#permohonan\"\n      - listitem:\n        - article \"Permohonan Legalisir\":\n          - heading \"Permohonan Legalisir\" [level=3]\n          - paragraph: Pengesahan salinan ijazah atau transkrip. Bawa berkas asli saat mengambil di loket akademik.\n          - list \"Detail layanan\":\n            - listitem: 2 hari kerja\n            - listitem: \"Syarat: salinan & asli\"\n          - link \"Ajukan Legalisir\":\n            - /url: \"#permohonan\"\n  - region \"Dari formulir sampai berkas di tangan\":\n    - paragraph: Cara kerja\n    - heading \"Dari formulir sampai berkas di tangan\" [level=2]\n    - paragraph: Empat tahap, status dikirim ke email Anda di setiap tahap.\n    - list:\n      - listitem:\n        - heading \"Pilih & isi\" [level=3]\n        - paragraph: Pilih jenis layanan dan lengkapi data pada formulir.\n      - listitem:\n        - heading \"Verifikasi\" [level=3]\n        - paragraph: Petugas akademik fakultas memeriksa kelengkapan data.\n      - listitem:\n        - heading \"Diproses\" [level=3]\n        - paragraph: Dokumen dicetak, ditandatangani, dan diberi nomor surat.\n      - listitem:\n        - heading \"Ambil berkas\" [level=3]\n        - paragraph: Ambil di loket, atau unduh versi digital jika tersedia.\n  - region \"Ajukan permohonan\":\n    - paragraph: Formulir\n    - heading \"Ajukan permohonan\" [level=2]\n    - paragraph:\n      - text: Isi sesuai data kemahasiswaan Anda. Kolom bertanda\n      - strong: wajib\n      - text: harus diisi.\n    - complementary \"Sebelum mengirim\":\n      - heading \"Sebelum mengirim\" [level=3]\n      - list:\n        - listitem: Gunakan email aktif untuk menerima status.\n        - listitem: Tulis keperluan sejelas mungkin.\n        - listitem: Satu permohonan untuk satu jenis layanan.\n    - text: Nama lengkap wajib\n    - textbox \"Nama lengkap wajib\"\n    - paragraph: Sesuai KTM, tanpa gelar.\n    - text: NIM wajib\n    - textbox \"NIM wajib\"\n    - paragraph: Angka saja, 8–12 digit.\n    - text: Email wajib\n    - textbox \"Email wajib\"\n    - paragraph: \"Contoh: nama@gmail.com\"\n    - text: Program studi wajib\n    - combobox \"Program studi wajib\":\n      - option \"Pilih program studi\" [selected]\n      - option \"Matematika\"\n      - option \"Statistika\"\n      - option \"Fisika\"\n      - option \"Kimia\"\n      - option \"Biologi\"\n      - option \"Informatika\"\n    - group \"Jenis layanan wajib\":\n      - text: Jenis layanan wajib\n      - radio \"Surat Aktif Kuliah\"\n      - text: Surat Aktif Kuliah\n      - radio \"Transkrip Sementara\"\n      - text: Transkrip Sementara\n      - radio \"Cuti Akademik\"\n      - text: Cuti Akademik\n      - radio \"Permohonan Legalisir\"\n      - text: Permohonan Legalisir\n    - text: Keperluan wajib\n    - textbox \"Keperluan wajib\"\n    - paragraph: Jelaskan untuk apa berkas dibutuhkan, 20–500 karakter.\n    - checkbox \"Saya menyatakan data di atas benar dan dapat dipertanggungjawabkan.\"\n    - text: Saya menyatakan data di atas benar dan dapat dipertanggungjawabkan.\n    - button \"Kirim permohonan\"\n- contentinfo:\n  - paragraph: Fakultas Sains dan Teknologi\n  - paragraph: Universitas Pattimura Kampus Poka, Ambon, Maluku\n  - paragraph: Jam layanan loket\n  - paragraph: Senin–Jumat 08.00–16.00 WIT\n  - navigation \"Navigasi footer\":\n    - paragraph: Pintasan\n    - list:\n      - listitem:\n        - link \"Katalog layanan\":\n          - /url: \"#layanan\"\n      - listitem:\n        - link \"Formulir permohonan\":\n          - /url: \"#permohonan\"\n      - listitem:\n        - link \"Kembali ke atas\":\n          - /url: \"#atas\"\n  - paragraph: © 2026 Portal Layanan Akademik FST Unpatti · Tugas Pertemuan 5, Responsive & Accessible Web Client."
+}
